@@ -1,6 +1,5 @@
 """These tests fall under Conformance Test-Suite (OF-SWITCH-1.0.0 TestCases).
     Refer Documentation -- Detailed testing methodology 
-    <Some of test-cases are directly taken from oftest> """
 
 "Test Suite 6 --> Flow Matches"
 
